@@ -1,0 +1,3 @@
+C:/Users/WİN10/CLionProjects/Main/cmake-build-debug/CMakeFiles/Main.dir
+C:/Users/WİN10/CLionProjects/Main/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/WİN10/CLionProjects/Main/cmake-build-debug/CMakeFiles/rebuild_cache.dir
